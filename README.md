@@ -34,7 +34,7 @@ A JavaFX desktop application for maintaining, searching, and reviewing an in-mem
 ```bash
 git clone https://github.com/ElyasNajeh/Movies-Management-System.git
 cd Movies-Management-System
-./mvnw clean test
+./mvnw clean
 ./mvnw javafx:run
 ```
 
